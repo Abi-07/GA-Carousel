@@ -12,7 +12,3 @@ To add nav lines remove ".carousel-class .owl-dots{ display: none;}" from style.
 .carousel-class .owl-dots .owl-dot.active{width: 36px; background: #000;} "
 
 ![GA-Carousel screenshot](https://github.com/AbiGA/GA-Carousel/blob/master/screenshots/carousel2.png)
-
-For any query feel free to contact at abhishekjoshi724@gmail.com.
-
-Visit http://graphoandroida.com/ to check the amazing work we do at GraphoAndorida.
